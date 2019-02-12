@@ -4,3 +4,4 @@ c:\users\murat\source\repos\InterfaceAbstractDemo\InterfaceAbstractDemo\bin\Debu
 c:\users\murat\source\repos\InterfaceAbstractDemo\InterfaceAbstractDemo\obj\Debug\InterfaceAbstractDemo.dll
 c:\users\murat\source\repos\InterfaceAbstractDemo\InterfaceAbstractDemo\obj\Debug\InterfaceAbstractDemo.pdb
 C:\Users\murat\source\repos\InterfaceAbstractDemo\InterfaceAbstractDemo\bin\Debug\InterfaceAbstractDemo.dll.config
+C:\Users\murat\source\repos\InterfaceAbstractDemo\InterfaceAbstractDemo\obj\Debug\InterfaceAbstractDemo.csprojAssemblyReference.cache

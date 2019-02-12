@@ -16,7 +16,7 @@ namespace InterfaceAbstractDemo.Concrete
         {
             if (_customerCheckService.CheckIfRealPerson(customer))
                 base.Save(customer);
-            else throw new Exception("National Id havent found");
+            else throw new Exception("National Id hasnt found");
         }
     }
 }

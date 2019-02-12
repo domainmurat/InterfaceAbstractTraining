@@ -1,0 +1,11 @@
+c:\users\murat\source\repos\InterfaceAbstractDemo\InterfaceAbstract.ConsoleApp\obj\Debug\InterfaceAbstract.ConsoleApp.csproj.CoreCompileInputs.cache
+c:\users\murat\source\repos\InterfaceAbstractDemo\InterfaceAbstract.ConsoleApp\bin\Debug\InterfaceAbstract.ConsoleApp.exe.config
+c:\users\murat\source\repos\InterfaceAbstractDemo\InterfaceAbstract.ConsoleApp\bin\Debug\InterfaceAbstract.ConsoleApp.exe
+c:\users\murat\source\repos\InterfaceAbstractDemo\InterfaceAbstract.ConsoleApp\bin\Debug\InterfaceAbstract.ConsoleApp.pdb
+c:\users\murat\source\repos\InterfaceAbstractDemo\InterfaceAbstract.ConsoleApp\bin\Debug\InterfaceAbstractDemo.dll
+c:\users\murat\source\repos\InterfaceAbstractDemo\InterfaceAbstract.ConsoleApp\bin\Debug\InterfaceAbstractDemo.pdb
+c:\users\murat\source\repos\InterfaceAbstractDemo\InterfaceAbstract.ConsoleApp\obj\Debug\InterfaceAbstract.ConsoleApp.csprojAssemblyReference.cache
+c:\users\murat\source\repos\InterfaceAbstractDemo\InterfaceAbstract.ConsoleApp\obj\Debug\InterfaceAbstract.ConsoleApp.csproj.CopyComplete
+c:\users\murat\source\repos\InterfaceAbstractDemo\InterfaceAbstract.ConsoleApp\obj\Debug\InterfaceAbstract.ConsoleApp.exe
+c:\users\murat\source\repos\InterfaceAbstractDemo\InterfaceAbstract.ConsoleApp\obj\Debug\InterfaceAbstract.ConsoleApp.pdb
+C:\Users\murat\source\repos\InterfaceAbstractDemo\InterfaceAbstract.ConsoleApp\bin\Debug\InterfaceAbstractDemo.dll.config

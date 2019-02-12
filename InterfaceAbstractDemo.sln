@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAbstractDemo", "InterfaceAbstractDemo\InterfaceAbstractDemo.csproj", "{5D0EF987-1FAD-4E20-80D2-947133DC11BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAbstract.ConsoleApp", "InterfaceAbstract.ConsoleApp\InterfaceAbstract.ConsoleApp.csproj", "{C8152D8B-8912-472F-AD02-1613670DAB7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D0EF987-1FAD-4E20-80D2-947133DC11BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0EF987-1FAD-4E20-80D2-947133DC11BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0EF987-1FAD-4E20-80D2-947133DC11BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0EF987-1FAD-4E20-80D2-947133DC11BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8152D8B-8912-472F-AD02-1613670DAB7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8152D8B-8912-472F-AD02-1613670DAB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8152D8B-8912-472F-AD02-1613670DAB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8152D8B-8912-472F-AD02-1613670DAB7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89B81259-8CD6-4C79-BDCD-008FD7C66ADC}
+	EndGlobalSection
+EndGlobal
